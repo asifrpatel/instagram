@@ -11,7 +11,7 @@
       "filter": "Normal",
       "created_time": "1440501087",
       "link": "https://instagram.com/p/6zeBG2H1oH/",
-      "images": {
+      "images": [{
         "low_resolution": {
           "url": "https://picsum.photos/id/237/320/320",
           "width": 320,
@@ -27,7 +27,23 @@
           "width": 640,
           "height": 640
         }
-      },
+      },{
+        "low_resolution": {
+          "url": "https://picsum.photos/id/242/320/320",
+          "width": 320,
+          "height": 320
+        },
+        "thumbnail": {
+          "url": "https://picsum.photos/id/242/150/150",
+          "width": 150,
+          "height": 150
+        },
+        "standard_resolution": {
+          "url": "https://picsum.photos/id/242/640/640",
+          "width": 640,
+          "height": 640
+        }
+      }],
       "users_in_photo": [],
       "caption": {
         "created_time": "1440501087",
@@ -57,7 +73,7 @@
       "filter": "Normal",
       "created_time": "1440499397",
       "link": "https://instagram.com/p/6zay6yBWhr/",
-      "images": {
+      "images": [{
         "low_resolution": {
           "url": "https://picsum.photos/id/238/220/320",
           "width": 320,
@@ -73,7 +89,7 @@
           "width": 640,
           "height": 640
         }
-      },
+      }],
       "users_in_photo": [],
       "caption": {
         "created_time": "1440499397",
@@ -105,7 +121,7 @@
       "filter": "Normal",
       "created_time": "1440501526",
       "link": "https://instagram.com/p/6ze2yyi4eV/",
-      "images": {
+      "images": [{
         "low_resolution": {
           "url": "https://picsum.photos/id/239/320/320",
           "width": 320,
@@ -122,6 +138,39 @@
           "height": 640
         }
       },
+{
+        "low_resolution": {
+          "url": "https://picsum.photos/id/243/320/320",
+          "width": 320,
+          "height": 320
+        },
+        "thumbnail": {
+          "url": "https://picsum.photos/id/243/150/150",
+          "width": 150,
+          "height": 150
+        },
+        "standard_resolution": {
+          "url": "https://picsum.photos/id/243/640/640",
+          "width": 640,
+          "height": 640
+        }
+      },{
+        "low_resolution": {
+          "url": "https://picsum.photos/id/244/320/320",
+          "width": 320,
+          "height": 320
+        },
+        "thumbnail": {
+          "url": "https://picsum.photos/id/244/150/150",
+          "width": 150,
+          "height": 150
+        },
+        "standard_resolution": {
+          "url": "https://picsum.photos/id/244/640/640",
+          "width": 640,
+          "height": 640
+        }
+      }],
       "users_in_photo": [],
       "caption": {
         "created_time": "1440501526",
@@ -155,7 +204,7 @@
       "filter": "Juno",
       "created_time": "1440495224",
       "link": "https://instagram.com/p/6zS1b4OLoe/",
-      "images": {
+      "images": [{
         "low_resolution": {
           "url": "https://picsum.photos/id/240/320/320",
           "width": 320,
@@ -171,7 +220,7 @@
           "width": 640,
           "height": 640
         }
-      },
+      }],
       "users_in_photo": [],
       "caption": {
         "created_time": "1440495224",
@@ -201,7 +250,7 @@
       "filter": "Normal",
       "created_time": "1440501996",
       "link": "https://instagram.com/p/6zfwHMEXBY/",
-      "images": {
+      "images": [{
         "low_resolution": {
           "url": "https://picsum.photos/id/241/320/320",
           "width": 320,
@@ -217,7 +266,7 @@
           "width": 640,
           "height": 640
         }
-      },
+      }],
       "users_in_photo": [],
       "caption": {
         "created_time": "1440501996",
